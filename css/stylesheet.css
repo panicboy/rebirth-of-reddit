@@ -1,0 +1,61 @@
+.postDivL{
+  vertical-align: top;
+  text-align: right;
+  border-style: solid;
+  border-width: 1px;
+  display: inline-block;
+  background-color: #66ffff;
+  border-radius: 20px 0px 0px 20px;
+  border-width: 2px;
+  border-color: #c0c0c0;
+  height: 100px;
+  width: 80px;
+}
+
+.postDivR{
+  vertical-align: top;
+  border-style: solid;
+  border-width: 1px;
+  display: inline-block;
+  border-radius: 0px 20px 20px 0px;
+  border-width: 2px;
+  border-color: #c0c0c0;
+  height: 100px;
+  width: 600px;
+}
+
+.thumbDiv{
+  vertical-align: top;
+  display: inline-block;
+  height: 98px;
+  width: 98px;
+}
+
+.summaryDiv{
+  vertical-align: top;
+  display: inline-block;
+  height: 98px;
+  width: 490px;
+}
+.imgDiv{
+  vertical-align: middle;
+}
+
+.rankSpan{
+  margin-right: 3px;
+}
+
+.upsDiv{
+  display: block;
+  vertical-align: top;
+}
+
+.downsDiv{
+  display: block;
+  vertical-align: bottom;
+}
+
+.thumbImg{
+  height: 98px;
+  width: 98px;
+}
